@@ -1,5 +1,7 @@
 # Entire workshop — reserved workspace
 
+**Workspace maintainer: [Tyler Katayama](https://github.com/tylerkat89) · [Attribution](ATTRIBUTION.md)**
+
 **WeAreDevelopers workshops · implementation not started**
 
 ## Project context
